@@ -57,9 +57,3 @@ To test the model in real-world scenarios:
   
 
 ---
-
-## 🔧 **Future Improvements**  
-🔹 **Add audio alerts** to warn drowsy drivers in real-time.  
-🔹 **Optimize performance** by fine-tuning hyperparameters.  
-🔹 **Collect more diverse data** to improve accuracy across different environments.  
-
