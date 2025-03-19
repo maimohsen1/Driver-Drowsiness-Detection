@@ -44,15 +44,8 @@ To speed up training and improve efficiency, the MobileNetV2 model is **pretrain
 After training, the model is tested on individual images.  
 - The image is resized and normalized.  
 - The model analyzes the image sequence and predicts if the driver is awake or drowsy.  
-- The result is displayed along with the image, showing the **classification label and confidence score**.  
+- The result is displayed along with th
 
----
-
-## 🎥 **5. Real-Time Drowsiness Detection**  
-To test the model in real-world scenarios:  
-- A **webcam** continuously captures video frames.  
-- The frames are processed into a sequence and passed to the model.  
-- If drowsiness is detected, an **alert message** is displayed on the screen.  
 
   
 
