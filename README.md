@@ -63,7 +63,3 @@ To test the model in real-world scenarios:
 🔹 **Optimize performance** by fine-tuning hyperparameters.  
 🔹 **Collect more diverse data** to improve accuracy across different environments.  
 
----
-
-### **🎯 This project is a step toward improving road safety using AI! 🚀🔥**  
-This explanation is suitable for **GitHub README**, **project documentation**, or **YouTube descriptions**. Let me know if you need any adjustments! 😊
