@@ -44,9 +44,7 @@ To speed up training and improve efficiency, the MobileNetV2 model is **pretrain
 After training, the model is tested on individual images.  
 - The image is resized and normalized.  
 - The model analyzes the image sequence and predicts if the driver is awake or drowsy.  
-- The result is displayed along with th
 
-
-  
+ 
 
 ---
